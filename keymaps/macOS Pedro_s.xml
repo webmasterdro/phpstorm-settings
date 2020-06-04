@@ -1,0 +1,5 @@
+<keymap version="1" name="macOS Pedro's" parent="Mac OS X 10.5+">
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+</keymap>
